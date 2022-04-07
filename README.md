@@ -1,37 +1,37 @@
 ***generated from [AutoBuild-Actions-Template](https://github.com/Hyy2001X/AutoBuild-Actions-Template)***
 
 **支持列表:**
-|  名称   | 支持  | 备注  |
+|  名称   | 支持  | 测试  |
 |  ----  | ----  | ----  |
-| x86_64  | yes | |
-| newifi d2  | yes | |
+| x86_64  | yes | ✅ |
+| newifi d2  | yes | ✅ |
 
 **x86_64:**
 |  名称   | 支持  | 备注  |
 |  ----  | ----  | ----  |
-| wifi  | no | |
-| ipv6  | no | |
-| ttyd  | no | |
-| ssr+  | yes | |
-| openclash  | yes | |
-| openvpn  | yes | |
-| smartdns  | yes | |
-| adguardhome  | yes | |
-| frpc  | yes | |
-| unblockneteasemusic  | yes | |
-| openconnect  | no |in plan |
+| wifi  | ❌ | |
+| ipv6  | ❌ | |
+| ssr+  | ✅ | |
+| openclash  | ✅ | |
+| openvpn  | ✅ | |
+| smartdns  | ✅ | |
+| adguardhome  | ✅ | |
+| frpc  | ✅ | |
+| unblockneteasemusic  | ✅ | |
+| openconnect  | ❌ |in plan |
+| ttyd  | ❌ | |
 
 **newifi d2:**
 |  名称   | 支持  | 备注  |
 |  ----  | ----  | ----  |
-| wifi  | no | |
-| ipv6  | no | |
-| ttyd  | no | |
-| ssr+  | yes | |
-| openclash  | yes | |
-| openvpn  | yes | |
-| smartdns  | yes | |
-| adguardhome  | yes | |
-| frpc  | yes | |
-| unblockneteasemusic  | yes | |
-| openconnect  | no |in plan |
+| wifi  | ❌ | |
+| ipv6  | ❌ | |
+| ssr+  | ✅ | |
+| openclash  | ✅ | |
+| openvpn  | ✅ | |
+| smartdns  | ✅ | |
+| adguardhome  | ✅ | |
+| frpc  | ✅ | |
+| unblockneteasemusic  | ✅ | |
+| openconnect  | ❌ |in plan |
+| ttyd  | ❌ | |
