@@ -30,7 +30,7 @@
 | openclash  | ✅ | |
 | openvpn  | ✅ | |
 | smartdns  | ✅ | |
-| adguardhome  | ✅ | |
+| adguardhome  | ✅ |试用过，非常卡，简直没法用 |
 | frpc  | ✅ | |
 | unblockneteasemusic  | ✅ | |
 | openconnect  | ❌ |in plan |
